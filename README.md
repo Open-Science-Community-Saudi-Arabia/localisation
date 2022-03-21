@@ -6,7 +6,8 @@
 <img src= "imgs/logo.png" width = 40%>
 <p/>
 
-**Open Science Community Saudi Arabia (OSCSA)** aims to introduce open educational resources (OERs) for Open Sceince in Arabic to facilitate learning of Open science practices to novice learners. Therefore, we works with other Open Science communities such as the Turing Way and Open Life Sceince to localise their open educational resources (OER) using Crowdin, GitHub abd Zenodo. 
+
+**Open Science Community Saudi Arabia (OSCSA)** aims to introduce open educational resources (OERs) for Open Science in Arabic to facilitate learning of Open science practices to novice learners. Therefore, we work with other Open Science communities such as the Turing Way and Open Life Science to localise their open educational resources (OER) using Crowdin, GitHub and Zenodo.
 
 > Open Science community Saudi Arabia (OSCSA) was established in line with Saudi Arabia’s Vision 2030, which focuses on installing values, enhancing knowledge and improving equal access to education. It aims to provide a place where newcomers and experienced peers interact, inspire each other to embed open science practices and values in their workflows and provide feedback on policies, infrastructures and support services. Our community is part of the International Network of Open Science & Scholarship Communities (INOSC).
 
@@ -25,7 +26,7 @@ We use **GitHub** as a version control system for all the translation and to akn
 <img src= "imgs/TMS.png" width = 60%>
 <p/>
 
-We also uses Zenodo to produce DOI that aids in citation tracking. More detailed guidlines for the translation is in the [Contributing guidelines](https://github.com/Open-Science-Community-Saudi-Arabia/localisation/blob/main/CONTRIBUTING.md). 
+We also uses **Zenodo** to produce DOI that aids in citation tracking. More detailed guidlines for the translation is in the [Contributing guidelines](https://github.com/Open-Science-Community-Saudi-Arabia/localisation/blob/main/CONTRIBUTING.md). 
 
 ## Current Projects
 
