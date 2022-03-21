@@ -14,28 +14,28 @@
 
 ### Workflow
 
-**Localization** is a more comprehensive process than Translation that addresses cultural and non-textual components as well as linguistic issues when adapting the text for another country or locale, as defined by [Stephanie Harris](https://www.vengaglobal.com/blog/translation-localization-difference/).
+**Localization** is a more comprehensive process than translation that addresses cultural and non-textual components as well as linguistic issues when adapting the text for another country or locale, as defined by [Stephanie Harris](https://www.vengaglobal.com/blog/translation-localization-difference/).
 
 <p align="center">
 <img src= "imgs/workflow.png" width = 60%>
 <p/>
 
-We use **GitHub** as a version control system for all the translation and to aknowledge all contributors. **Crowdin** is used as translation management system (or TMS) to make contribution smooth. Any changes made to crowdin will be reflected on GitHub using automation and continues integration (CI). Crowdin provide Translation Memory (TM), Glossary, Machine Translation (MT) and QA checks.
+We use **GitHub** as a version control system for all the translations and to acknowledge all contributors. **Crowdin** is used as a translation management system (or TMS) to make contributions smooth. Any changes made to Crowdin will be reflected on GitHub using automation and continuous integration (CI). Crowdin provides Translation Memory (TM), Glossary, Machine Translation (MT) and QA checks.
 
 <p align="center">
 <img src= "imgs/TMS.png" width = 60%>
 <p/>
 
-We also uses **Zenodo** to produce DOI that aids in citation tracking. More detailed guidlines for the translation is in the [Contributing guidelines](https://github.com/Open-Science-Community-Saudi-Arabia/localisation/blob/main/CONTRIBUTING.md). 
+We also use **Zenodo** to produce DOI that aids in citation tracking. More detailed guidelines for the translation is in the [Contributing guidelines](https://github.com/Open-Science-Community-Saudi-Arabia/localisation/blob/main/CONTRIBUTING.md). 
 
 ## Current Projects
 
 - **Translation for Open Life Science Talks and Transcripts.**
 
-Open Life Science mentoring and training program also known as OLS has been running since January 2020 and offers a 16-week project-based opportunity to learn open science practices. In order to make some of its resources more accessible, [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) translated part of OLS3 cohort resources. More detailed can be found in [this respository](https://github.com/Open-Science-Community-Saudi-Arabia/ols3-cohort-talks-and-transcripts).
+Open Life Science (OLS) mentoring and training program has been running since January 2020 and offers a 16-week project-based opportunity to learn open science practices. To make some of its resources more accessible, [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) translated part of OLS3 cohort resources. More details can be found in [this respository](https://github.com/Open-Science-Community-Saudi-Arabia/ols3-cohort-talks-and-transcripts).
 
-- **Translation of _The Turing Way_.**
-The Turing Way is a handbook to reproducible, ethical and collaborative data science. It support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone. Part of the topics in _the Turing Way_ was already translated to Spanish, OSCSA has introduced the same workflow to translate _the Turing Way_ to Arabic.
+- **translation of _The Turing Way_.**
+The Turing Way is a handbook to reproducible, ethical and collaborative data science. It supports a diverse community of contributors to make data science accessible, comprehensible and effective for everyone. Part of the topics in _the Turing Way_ was already translated to Spanish, OSCSA has introduced the same workflow to translate _the Turing Way_ to Arabic.
 
 ## Contributing :two_hearts:
 - If you like it, leave your star in this project :star2:
