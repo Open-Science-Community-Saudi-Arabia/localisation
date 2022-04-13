@@ -19,7 +19,6 @@ You need only to translate one small file with no more than 300 words. You don't
 
 
 
-
 > ## Tasks for Intern Selection:
 > 
 - Complete the translation of one of the landing pages of the Guide for Reproducible Research (e.g. Overview of Reproducible Research, Open Research, Research Data Management, ..etc).
@@ -35,3 +34,14 @@ You need only to translate one small file with no more than 300 words. You don't
 - Review other contributions in the Translation
 - Deploy the book with the 6 translated chapters
 - Provide documentation about the Workflow in Arabic.
+
+
+
+
+
+> ## ideas 
+
+- [Translation Process Overview](https://support.crowdin.com/translation-process-overview/#upload-source-files-for-localization)
+- [Joining Translation Project](https://support.crowdin.com/joining-translation-project/)
+
+
