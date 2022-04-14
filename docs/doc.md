@@ -26,7 +26,7 @@
 
  ![image](https://user-images.githubusercontent.com/36210723/163408194-07c18633-920b-49b3-a844-68851d0c0c76.png)
 
-> - حيث نجد في هذه النافذة جميع الملفات الموجودةالتي يمكن ترجمتها. 
+> - حيث نجد في هذه النافذة جميع الملفات الموجودة التي يمكن ترجمتها. 
 
 <img width="1416" alt="160449198-05aee1ba-cdfb-4e9c-9f41-d17ca275a229" src="https://user-images.githubusercontent.com/36210723/163408928-0df2aad3-eafa-429c-b1ef-f9ac4f0a7514.png">
 
