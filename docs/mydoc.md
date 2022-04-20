@@ -1,4 +1,4 @@
- <div dir="rtl">
+ <div dir="auto">
 
 # تجربتي مع منصة Crowdin للترجمة
 
