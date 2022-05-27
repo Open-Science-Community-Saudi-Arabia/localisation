@@ -3,7 +3,7 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 <p align="center">
-<img src= "imgs/logo.png" width = 40%>
+<img src= "https://user-images.githubusercontent.com/53487593/170689287-ee34c845-82e1-4dea-85a1-2a7386a0d55d.png" width = 40%>
 <p/>
 
 
