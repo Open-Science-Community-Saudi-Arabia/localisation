@@ -1,7 +1,7 @@
 
 ##  تجربتي مع منصة الترجمة Crowdin
 
-تم إنشاء جمعية العلوم المفتوحة في المملكة العربية السعودية ** [OSCSA] (https://osc-ksa.com/) تماشيًا مع الرؤية السعودية 2030 لدعم وتوفير بنية تحتية للعلوم المفتوحة في العالم العربي من خلال العمل مع الآخرين المجتمعات العلمية مثل Turing Way باستخدام [GitHub] (www.github.com) ومنصة [Crowdin] (www.crowdin.com)
+تم إنشاء جمعية العلوم المفتوحة في المملكة العربية السعودية ** [OSCSA](https://osc-ksa.com/) تماشيًا مع الرؤية السعودية 2030 لدعم وتوفير بنية تحتية للعلوم المفتوحة في العالم العربي من خلال العمل مع الآخرين المجتمعات العلمية مثل Turing Way باستخدام [GitHub](www.github.com) ومنصة [Crowdin](www.crowdin.com)
 
 ### البدء مع Crowdin
 
@@ -12,7 +12,7 @@
  
 #### الخطوةالاولى
 
- قم بإنشاء [حساب] (https://accounts.crowdin.com/login) على المنصة عن طريق التسجيل عبر البريد الإلكتروني أو يفضل استخدام حساب GITHUB الخاص بك.
+ قم بإنشاء [حساب](https://accounts.crowdin.com/login) على المنصة عن طريق التسجيل عبر البريد الإلكتروني أو يفضل استخدام حساب GITHUB الخاص بك.
 
  سيتم إرسال رسالة تأكيد إلى بريدك الإلكتروني لتفعيل حسابك على الموقع.
 
@@ -60,11 +60,11 @@
 ## نصائح مفيدة عند ترجمة مقطع فيديو
 
 
-* اقرأ الملف الذي اخترته من [The Turing Method Book] (https://the-turing-way.netlify.app/welcome) قبل البدء في ترجمته.
+* اقرأ الملف الذي اخترته من [The Turing Method Book](https://the-turing-way.netlify.app/welcome) قبل البدء في ترجمته.
 * شاهد الفيديو الذي تقوم بترجمته واستمع إلى الصوت باهتمام لتجنب ترجمة الترجمة خارج السياق.
 * * تأكد من وضع علامات الترقيم بشكل صحيح ، وخاصة الفاصلة.
 * * تأكد من استخدام المصطلحات المضافة إلى المسرد لترجمة المشروع بشكل صحيح ومتسق.
 
 
 
-For more information on how to use the Crowdin Editor [here] (https://support.crowdin.com/online-editor/).
+For more information on how to use the Crowdin Editor [here](https://support.crowdin.com/online-editor/).
