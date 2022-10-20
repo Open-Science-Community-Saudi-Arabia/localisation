@@ -21,7 +21,7 @@
   بعد تسجيل الدخول ، سيتم نقلك إلى الصفحة الرئيسية للموقع حيث سترى لوحة القيادة
 
 <p align="center">
-<img src= "https://res.cloudinary.com/ddunuksxx/image/upload/v1665575790/Screen_Shot_2022-10-12_at_3.50.51_PM_tff629.png" width = 40%>
+<img src= "https://res.cloudinary.com/ddunuksxx/image/upload/v1665575790/Screen_Shot_2022-10-12_at_3.50.51_PM_tff629.png" width = 100%>
 </p>
  
 ### الخطوة الثالثة
@@ -34,7 +34,7 @@
   افتح صفحة المشروع وحدد اللغة العربية. بشكل افتراضي ، تبدأ قائمة اللغات المستهدفة باللغات التي قمت بتكوينها في إعدادات ملف التعريف. سيتم سرد قائمة بجميع الملفات التي تحتاج إلى الترجمة
 
 <p align= "center">
- <img src= "https://res.cloudinary.com/ddunuksxx/image/upload/v1665576824/Screen_Shot_2022-10-12_at_4.09.44_PM_yqhrci.png" width = 40%> 
+ <img src= "https://res.cloudinary.com/ddunuksxx/image/upload/v1665576824/Screen_Shot_2022-10-12_at_4.09.44_PM_yqhrci.png" width = 100%> 
 </p>
 
 ###  الخطوة الخامسة
@@ -53,7 +53,7 @@
 أثناء مشاهدة الفيديو ، قمت بترجمة الترجمات في محرر الحشد. أثناء قيامك بالترجمة ، تتم مزامنة الترجمات مع الفيديو ، ويتم تمييز الترجمات المصاحبة وفقًا لذلك. عندما تبدأ في كتابة الترجمة ، يتوقف الفيديو على الفور للسماح لك بترجمة الترجمة.
 
 <p align="center">
-<img src= "imgs/crowdin-approve.gif" width = 60%>
+<img src= "imgs/crowdin-approve.gif" width = 100%>
 </p>
 
 
