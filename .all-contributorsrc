@@ -24,6 +24,16 @@
       "contributions": [
         "mentoring"
       ]
+    },
+    {
+      "login": "ThanaMeri",
+      "name": "ThanaMeri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31999574?v=4",
+      "profile": "https://github.com/ThanaMeri",
+      "contributions": [
+        "doc",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
