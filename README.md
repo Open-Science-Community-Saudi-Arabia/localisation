@@ -68,7 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/rnabage"><img src="https://avatars.githubusercontent.com/u/58336721?v=4?s=100" width="100px;" alt="Ruqayyah Nabage"/><br /><sub><b>Ruqayyah Nabage</b></sub></a><br /><a href="https://github.com/Open-Science-Community-Saudi-Arabia/localisation/commits?author=rnabage" title="Documentation">📖</a> <a href="#translation-rnabage" title="Translation">🌍</a></td>
-      <td align="center"><a href="https://github.com/Khadeeejah"><img src="https://avatars.githubusercontent.com/u/52764879?v=4?s=100" width="100px;" alt="KHADIJAH WURAOLA AMUSAT"/><br /><sub><b>KHADIJAH WURAOLA AMUSAT</b></sub></a><br /><a href="#mentoring-Khadeeejah" title="Mentoring">🧑‍🏫</a></td>
+      <td align="center"><a href="https://github.com/Khadeeejah"><img src="https://avatars.githubusercontent.com/u/52764879?v=4?s=100" width="100px;" alt="KHADIJAH WURAOLA AMUSAT"/><br /><sub><b>KHADIJAH WURAOLA AMUSAT</b></sub></a><br /><a href="#mentoring-Khadeeejah" title="Mentoring">🧑‍🏫</a> <a href="#translation-Khadeeejah" title="Translation">🌍</a> <a href="https://github.com/Open-Science-Community-Saudi-Arabia/localisation/commits?author=Khadeeejah" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/ThanaMeri"><img src="https://avatars.githubusercontent.com/u/31999574?v=4?s=100" width="100px;" alt="ThanaMeri"/><br /><sub><b>ThanaMeri</b></sub></a><br /><a href="https://github.com/Open-Science-Community-Saudi-Arabia/localisation/commits?author=ThanaMeri" title="Documentation">📖</a> <a href="#translation-ThanaMeri" title="Translation">🌍</a></td>
     </tr>
   </tbody>
