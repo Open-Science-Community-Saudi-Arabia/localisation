@@ -31,3 +31,5 @@
 <img width="1440" alt="Screenshot 1444-04-05 at 3 15 18 AM" src="https://user-images.githubusercontent.com/66481905/198857068-a53fcae9-ae98-4c1d-a2a4-29944749884d.png">
 
 <img width="1440" alt="Screenshot 1444-04-05 at 3 17 49 AM" src="https://user-images.githubusercontent.com/66481905/198857127-a91e169c-c2c9-4f4d-81a4-38b4bb17faf5.png">
+
+٢-  دخلت على مشروع الترجمة في المنصة من خلال الرابط المرفق في ملف التعليمات و ارسلت طلب انضمام للمشروع
