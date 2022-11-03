@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "rnabage",
+      "name": "Ruqayyah Nabage",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58336721?v=4",
+      "profile": "https://github.com/rnabage",
+      "contributions": [
+        "doc",
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "localisation",
+  "projectOwner": "Open-Science-Community-Saudi-Arabia"
+}
