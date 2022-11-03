@@ -1,6 +1,6 @@
 # Localisation
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -68,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/rnabage"><img src="https://avatars.githubusercontent.com/u/58336721?v=4?s=100" width="100px;" alt="Ruqayyah Nabage"/><br /><sub><b>Ruqayyah Nabage</b></sub></a><br /><a href="https://github.com/Open-Science-Community-Saudi-Arabia/localisation/commits?author=rnabage" title="Documentation">📖</a> <a href="#translation-rnabage" title="Translation">🌍</a></td>
+      <td align="center"><a href="https://github.com/Khadeeejah"><img src="https://avatars.githubusercontent.com/u/52764879?v=4?s=100" width="100px;" alt="KHADIJAH WURAOLA AMUSAT"/><br /><sub><b>KHADIJAH WURAOLA AMUSAT</b></sub></a><br /><a href="#mentoring-Khadeeejah" title="Mentoring">🧑‍🏫</a></td>
     </tr>
   </tbody>
 </table>
