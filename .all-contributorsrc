@@ -36,6 +36,16 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "Rubadel",
+      "name": "Ruba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66481905?v=4",
+      "profile": "https://github.com/Rubadel",
+      "contributions": [
+        "translation",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
